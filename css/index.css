@@ -297,10 +297,10 @@ nav{
         
   @media screen and  (max-width:900px) {
        main{
-            height: 170vh;
+            min-height: 190vh;
            }
       .info-boxs{
-                height: 150vh;
+                height: 180vh;
                  flex-direction: column-reverse;
               }
  

@@ -224,10 +224,10 @@ nav{
 
   @media screen and (min-width:500px) and  (max-width:1024px) {
     main{
-         height: 230vh;
+         height: 250vh;
         }
    .about_details{
-             height: 200vh;
+             height: 240vh;
               flex-direction: column;
            }
 
