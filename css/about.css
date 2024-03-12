@@ -11,7 +11,7 @@
 }
 main{
     background-color: rgba(15, 15, 21, 0.752);
-    height: 100vh; 
+    /* height: 100vh;  */
     }
 nav{
     width: 100%;
@@ -234,10 +234,10 @@ nav{
      }      
 @media screen and (max-width:500px) {
           main{
-              height: 275vh;
+              min-height: 275vh;
               }
  .about_details{
-                height: 275vh;
+               min-height: 275vh;
                  flex-direction: column;
               }    
          .profil{

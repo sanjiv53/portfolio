@@ -11,7 +11,7 @@
 }
 main{
   background-color: rgba(15, 15, 21, 0.752);
-  min-height: 100vh; 
+  /* min-height: 100vh;  */
   }
 nav{
   width: 100%;
