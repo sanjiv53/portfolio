@@ -234,10 +234,10 @@ nav{
      }      
 @media screen and (max-width:500px) {
           main{
-              min-height: 275vh;
+                height: 275vh;
               }
  .about_details{
-               min-height: 275vh;
+               height: 275vh;
                  flex-direction: column;
               }    
          .profil{

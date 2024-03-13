@@ -129,7 +129,7 @@ display: none;
         align-items: center;
         flex-direction: column;
         /* margin-top: 20px; */
-        min-height: 150vh;
+        height: 150vh;
         color: var(---color--white);
        }
 .skills h1{
@@ -271,7 +271,7 @@ width: 30%;
                     flex-direction: column;
                     }
              .skills{
-                      min-height: 260vh;    
+                    height: 260vh;    
                      }
 
             .f-end{
